@@ -1,8 +1,8 @@
-freddo = true
+freddo = True
 caldo = not freddo
-pioggia = false
-nuvoloso = true
+pioggia = False
+nuvoloso = True
 brutto_tempo = pioggia or nuvoloso
-vento = true
-neve = true
+vento = True
+neve = True
 tormenta = vento and neve
