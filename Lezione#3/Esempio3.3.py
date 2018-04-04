@@ -1,15 +1,17 @@
 class Quadrato:
-	
-	def __init__(self, lato):
-		self.lato = lato
-	def __repr__(self):
-		return "Quadrato(", self.lato, ")"
-	def perimetro(self):
-		print self.lato*4
-	def area(self):
-		print self.lato*self.lato
-		
+    
+    lato = 0
+    
+    def __init__(self, lato):
+        self.lato = lato
+    def __repr__(self):
+        return "Quadrato(" + str(self.lato) + ")"
+    def perimetro(self):
+        return self.lato*4
+    def area(self):
+        return self.lato*self.lato
+
 q = Quadrato(5)
-print q.lato
 print q.perimetro()
 print q.area()
+print q.__repr__()
