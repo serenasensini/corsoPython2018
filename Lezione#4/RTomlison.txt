@@ -1,0 +1,7 @@
+Raymond Samuel Tomlinson (April 23, 1941 – March 5, 2016) was a pioneering[1][2][3][4] American computer programmer who implemented the first email program on the ARPANET system, 
+the precursor to the Internet, in 1971; 
+he is internationally known and credited as the inventor of email.[5][6][7][8] 
+It was the first system able to send mail between users on different hosts connected to ARPANET. 
+Previously, mail could be sent only to others who used the same computer. 
+To achieve this, he used the @ sign to separate the user name from the name of their machine, a scheme which has been used in email addresses ever since.[9] 
+The Internet Hall of Fame in its account of his work commented "Tomlinson's email program brought about a complete revolution, fundamentally changing the way people communicate".[10][11]
