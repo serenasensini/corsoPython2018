@@ -1,6 +1,6 @@
 # Installare pip su Windows
 
-> Verificare di aver installato Python. Se non è installato Python 2.x, seguire il tutorial a questo [link](https://github.com/serenasensini/corsoPython2018/blob/master/Tutorial/Installare%20Python%20su%20Windows.md). Per verificare che siano installati, è sufficiente digitare 
+> Verificare di aver installato Python. Se non è installato Python 2.x, seguire il tutorial a questo [link](https://github.com/serenasensini/corsoPython2018/blob/master/Tutorial/Installare%20Python%20su%20Windows.md). Per verificare che sia installato, è sufficiente digitare 
 ``` python ```
 e verificare che ci sia un output del tipo:
 ```
