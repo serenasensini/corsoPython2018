@@ -1,5 +1,5 @@
  ## Idee con link utili per progetti da sviluppare in Python.
- ### Si ricorda che svolgere il progetto non è obbligatorio.
+ ### > Si ricorda che svolgere il progetto non è obbligatorio.
  
  Le ore messe a disposizione nelle prossime settimane verranno utilizzate anche per eventuali chiarimenti o svolgimento esercizi. Il progetto è utile per mettere in pratica quanto visto durante il corso.
  
