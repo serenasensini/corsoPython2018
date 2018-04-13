@@ -14,4 +14,4 @@
 - [Cluster di Raspberry Pi](https://www.youtube.com/watch?v=H2rTecSO0gk)
 - [Amazon Echo con Raspberry Pi](https://www.youtube.com/watch?v=d2KvT8tcmNU)
  
- Per qualunque tipo di informazione, scrivere a sensini[at]lugroma3.org.
+> Per qualunque tipo di informazione, scrivere a sensini[at]lugroma3.org.
