@@ -1,6 +1,6 @@
 # Installare pip su Ubuntu (e similari)
 
-> Verificare di aver installato Python.  
+> Verificare di aver installato Python.  Digitare:
 ``` python ```
 e verificare che ci sia un output del tipo:
 ```
