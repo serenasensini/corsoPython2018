@@ -17,10 +17,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 - Aggiungere alla variabile "Path" di sistema (e dell'utente) il path recuperato al primo punto.
 Nota: per versioni di Windows > 8, sarà sufficiente cliccare su "Nuovo" per aggiungere una variabile d'ambiente; per le versioni precedenti, bisognerà assicurarsi che la stringa già presente termini con un punto e virgola. Solo dopo si potrà aggiungere il path trovato al primo punto!
 
-- Per verificare che l'installazione sia andata a buon fine, digitare da riga di comando (è possibile aprirla digitando "cmd" cliccando sul pulsante "Start")
-
-``` python ```
-e verificare che ci sia un output del tipo:
+- Per verificare che l'installazione sia andata a buon fine, digitare da riga di comando (è possibile aprirla digitando "cmd" cliccando sul pulsante "Start") ``` python ``` e verificare che ci sia un output del tipo:
 ```
 Python 2.7.0a2 (...)  
 Type "help", "copyright", "credits" or "license" for more information.
