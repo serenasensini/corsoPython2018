@@ -1,4 +1,4 @@
-#Installare PyQt4 su Ubuntu (e similari)
+# Installare PyQt4 su Ubuntu (e similari)
 
 > Verificare di aver installato pip. Se non è installato Python 2.x, seguire il tutorial a questo [link](); se non è installato pip, seguire il tutorial a questo [link](). Per verificare che siano installati, è sufficiente digitare 
 ``` python ```
