@@ -1,4 +1,4 @@
-#Installare Python su Windows
+# Installare Python su Windows
 
 ### Passi preliminari
 Scaricare da [qui](https://www.python.org/downloads/windows/) la release di Python necessaria, scegliendo tra la versione a 32 o 64 bit.
