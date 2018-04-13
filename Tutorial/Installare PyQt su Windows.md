@@ -1,6 +1,6 @@
 # Installare PyQt4 su Windows
 
-> Verificare di aver installato Python. Se non è installato Python 2.x, seguire il tutorial a questo [link](https://github.com/serenasensini/corsoPython2018/blob/master/Tutorial/Installare%20Python%20su%20Windows.md). Per verificare che siano installati, è sufficiente digitare 
+> Verificare di aver installato Python. Se non è installato Python 2.x, seguire il tutorial a questo [link](https://github.com/serenasensini/corsoPython2018/blob/master/Tutorial/Installare%20Python%20su%20Windows.md); se non è installato pip, seguire il tutorial a questo [link](https://github.com/serenasensini/corsoPython2018/blob/master/Tutorial/Installare%20pip%20su%20Windows.md). Per verificare che siano installati, è sufficiente digitare 
 ``` python ```
 e verificare che ci sia un output del tipo:
 ```
@@ -8,6 +8,7 @@ Python 2.7.0a2 (...)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
+
 Fare la stessa cosa per pip: digitare
 ``` pip ```
 e verificare che ci sia un output del tipo:
@@ -17,7 +18,6 @@ pip <command> [options]
 Commands:                                                                                                                 
 install                     Install packages.       
 ```
-
 ### Passi preliminari
 - Scaricare il pacchetto PyQt in formato .whl da questo [sito](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4), scegliendo tra la versione a 32-bit o 64-bit.
 
