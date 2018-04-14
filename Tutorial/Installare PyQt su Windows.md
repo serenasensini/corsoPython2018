@@ -38,9 +38,8 @@ app.exec_()
 ```
 
 - E' possibile eseguire direttamente il codice da riga di comando salvando il precedente codice in un file ed eseguendo:
-'''
-python \path\to\file
-'''
+''' 
+python \path\to\file '''
 
 
 > Suggerimento: a questo [link](https://www.python.it/wiki/show/qttutorial/) esiste un tutorial in italiano che fornisce una panoramica dell'uso di PyQt.
