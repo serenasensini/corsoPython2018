@@ -5,7 +5,7 @@ Scaricare da [qui](https://www.python.org/downloads/windows/) la release di Pyth
 
 ### Istruzioni
 - Cliccare sul file eseguibile appena scaricato e seguire le istruzioni.
-- Una volta terminata l'installazione, cerificare che sia andata a buon fine digitando:
+- Una volta terminata l'installazione, verificare che sia andata a buon fine digitando via riga di comando (è possibile aprirla digitando "cmd" cliccando sul pulsante "Start"):
 ``` python ```
 e verificare che ci sia un output del tipo:
 ```
